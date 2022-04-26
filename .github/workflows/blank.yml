@@ -1,0 +1,38 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CIThe Planet X/planet Nibiru system that is composed of a Dwarf Sun, and planets orbiting it also orbits around our Sun every 3600 years or so, and it's a disaster every time this isn't anything new for some of us, but this time around is supposed to be terrible, the worst time in Human history to put it into perspective for Human kind! Its a worst case scenario! Meteors will be hitting the Earth in random places! The poles are shifting already, but as it gets closer it will shift dramatically, then there will be extreme heat that will scorch the whole planet actually, and we're screwed if we don't prepare for the worst case scenario right away building caves into habitat for different lifeforms, and Humans to survive during the extreme heat blast on the surface of the planet when Nemesis, and Nibiru pass by us! Then it's going to pour rain down for a while after all that evaporation from the heat blast! There's supposed to be massive flooding, especially on the coasts due to the poles shifting. There might be nuclear meltdowns if they're not cleaned up before the event of Nibiru system passing through our solar system, getting too close to us, we're right near its path this time, we aren't always this close to it when it passes around our Sun every time this happens every 3600 years or so! It usually makes too much heat for the trees to live, or anything that doesn't get safely underground, yet as long as its farther away it doesn't harm the planet as much, but this time around its going to be very close, and very dangerous for a while on the surface of planet earth after the extreme heat, and meteors, and poles shifting, and the rain, it will take us a long time to repopulate it with plants, and animals, and insects! So we have to save the planet Earth from impending disaster! We need to dig, and build deep underground to avoid the heat from boiling us alive if we're not deep enough. We're pretty sure 300 meters deep is deep enough, but there may be more involved with what's over head in the cave, or bunker location that you are as well as how deep. We should only have to be underground below 300 meters for a short amount of time as the worst of the heat passes, then we can go back further up into other spaces underground, and we'll still have to live underground for a few years unless its safe on the surface again already after the heat storm miraculously. We need to be prepared to live underground for a few years, and have as much supplies to last as long as possible since we're going to lose everything to the heat blast from Nibiru/Planet X system in 6 years and a few months or so. We need to prepare for this immediately by outfitting caves, and mines, anything deep enough underground, even reservoirs, or outer space, or deep in the ocean perhaps too! We need to make spaces for as many lifeforms as possible, and get organizations working tirelessly on saving as many species as possible, from all the different kingdoms of life on Earth! We need to start these organizations to do all this work rescuing the environment from the storm that's about to scorch the entire planet Earth! We need more planning out what to do to survive down in caves with people taking care of us ahead of time, before we have to bring everyone down to the caves, setting up the habitats for the lifeforms to survive safely as soon as possible, and working out the kinks in the systems, making sure we have enough supplies, and medicine, and foods, there should be farms working all day long to grow all kinds of stuff to bring down to the caves, and bunkers for Plants, Insects, Animals, and Humans! We gotta step this up a notch, it doesn't seem like enough people are aware of this disaster about to happen, we don't believe NASA wanted to tell everyone, and systematically removed a bunch of astronomers for pointing it out, and they don't want anybody to know for some reason out of fear of what people would do or whatever, but we're afraid of what people won't do to help us survive this disaster if they don't know about it! Wildlife doesn't stand a chance without Humans help bringing them deep underground to safety, and help with supplies, and being cared for while we're down there, then when we come to the surface, we'll help you repopulate the Earth again with plants and the ecosystem we all know and love!
+
+Please visit us on our original platform Naturecommunicates@twitter.com @gaia47777299
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
